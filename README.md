@@ -1,1 +1,2 @@
-# C20-Class-Activity
+# p5.play-boilerplate
+Boiler plate for p5.play
